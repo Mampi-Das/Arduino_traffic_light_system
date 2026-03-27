@@ -23,8 +23,8 @@ The objective of this project is to demonstrate fundamental concepts of embedded
 Each LED represents a traffic signal and is controlled through a dedicated digital output pin of the Arduino. The LEDs are connected using current-limiting resistors to ensure safe operation.
 
 * Red LED → Digital Pin 8
-* Yellow LED → Digital Pin 9
-* Green LED → Digital Pin 10
+* Yellow LED → Digital Pin 10
+* Green LED → Digital Pin 12
 
 All LEDs share a common ground.
 
